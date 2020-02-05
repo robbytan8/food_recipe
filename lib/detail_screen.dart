@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:food_recipe/entity/FoodItem.dart';
+import 'package:food_recipe/entity/food_item.dart';
 
 class DetailScreen extends StatelessWidget {
     DetailScreen({Key key, this.item}) : super(key: key);
